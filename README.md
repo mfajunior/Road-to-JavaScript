@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Road-to-JavaScript
+
+Este repositório registra minha jornada de estudos em **JavaScript** e **ReactJS**, focando na resolução de problemas, boas práticas de desenvolvimento e aprendizado prático.
+
+---
+
+## 📚 Materiais de Estudo
+1. **Curso de ReactJS do Hora de Codar**:
+[Link da Playlist](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
+
+---
+
+
+>>>>>>> b0855350e8f4921efa4efe27b4c5ca7dfaff5e87
