@@ -9,6 +9,3 @@ Este repositório registra minha jornada de estudos em **JavaScript** e **ReactJ
 [Link da Playlist](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
 ---
-
-
->>>>>>> b0855350e8f4921efa4efe27b4c5ca7dfaff5e87
