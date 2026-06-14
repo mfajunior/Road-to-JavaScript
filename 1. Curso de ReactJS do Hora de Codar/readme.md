@@ -37,3 +37,5 @@ Aqui estão os conceitos fundamentais que explorei até o momento:
 ---
 
 ## Material utilizado para estudo está disponível nesse repositório
+1. Registro da primeiro contato com React JS xD
+<img src=./Final%2010%20aulas.png width="500" height="500" />
